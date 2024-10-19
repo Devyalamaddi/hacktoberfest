@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devendra](https://github.com/Devyalamaddi)
+- Place: Telangana, India
+- Bio: Frontend Developer ReactJS and c,c++,python Compitative Programmer
+- Github: [Devyalamaddi](https://github.com/Devyalamaddi)
